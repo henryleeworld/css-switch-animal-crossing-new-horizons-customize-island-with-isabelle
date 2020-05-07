@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/kYpIUJd.png)
+![](https://i.imgur.com/V3tMWqM.gif)
 > 如果狸吉發現玩家只在帳棚裡什麼是也不做的話，他會認為玩家喜歡流浪的生活而不需要其他人才的資源，因此招募到西施惠或是其他角色的機率也會降低
